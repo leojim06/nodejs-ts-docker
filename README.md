@@ -4,4 +4,9 @@ Realizado teniendo en cuenta el tutorial que se puede en contrar en [este](https
 
 ## Pasos para la creación del proyecto
 
-Tener instalado de forma global typescript con el comando `npm install -g typescript`
+1. Tener instalado de forma global typescript con el comando `npm install -g typescript`
+
+2. Inicializar un proyecto con el comando `npm init`
+3. Instalar express y typos con los comando 
+    `npm install express`
+    `npm install @types/express --save-dev`
